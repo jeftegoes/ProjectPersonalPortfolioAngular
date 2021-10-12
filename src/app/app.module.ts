@@ -7,6 +7,10 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContactComponent } from './contact/contact.component';
 import { SocialMediaComponent } from './social-media/social-media.component';
+import { GithubCalendarComponent } from './github-calendar/github-calendar.component';
+import { GreetingComponent } from './greeting/greeting.component';
+import { SkillsComponent } from './skills/skills.component';
+import { SkillProgressComponent } from './skill-progress/skill-progress.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +18,11 @@ import { SocialMediaComponent } from './social-media/social-media.component';
     HeaderComponent,
     FooterComponent,
     ContactComponent,
-    SocialMediaComponent
+    SocialMediaComponent,
+    GithubCalendarComponent,
+    GreetingComponent,
+    SkillsComponent,
+    SkillProgressComponent
   ],
   imports: [
     BrowserModule,

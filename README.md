@@ -1,3 +1,7 @@
+# Libraries
+- GitHubCalendar (https://github.com/Bloggify/github-calendar)
+
+
 # ProjectPersonalPortfolioAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.

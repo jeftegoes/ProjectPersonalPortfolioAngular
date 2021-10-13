@@ -11,6 +11,7 @@ import { GithubCalendarComponent } from './github-calendar/github-calendar.compo
 import { GreetingComponent } from './greeting/greeting.component';
 import { SkillsComponent } from './skills/skills.component';
 import { SkillProgressComponent } from './skill-progress/skill-progress.component';
+import { SoftwareSkillComponent } from './skills/software-skill/software-skill.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { SkillProgressComponent } from './skill-progress/skill-progress.componen
     GithubCalendarComponent,
     GreetingComponent,
     SkillsComponent,
-    SkillProgressComponent
+    SkillProgressComponent,
+    SoftwareSkillComponent
   ],
   imports: [
     BrowserModule,
